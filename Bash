@@ -1,0 +1,4 @@
+npx create-next-app ai-training-environment  # Or your preferred method
+cd ai-training-environment
+npm install lucide-react @radix-ui/react-slot class-variance-authority clsx tailwindcss tailwindcss-animate autoprefixer postcss @radix-ui/react-icons
+# Or yarn add ... if you use yarn
