@@ -1,16 +1,15 @@
-// types.js
 export const CHALLENGE_TYPES = {
   PATTERN: 'pattern',
-  OPTIMIZATION: 'optimization'
+  OPTIMIZATION: 'optimization',
 };
 
 export const PATTERN_TYPES = {
   ARITHMETIC: 'arithmetic',
   GEOMETRIC: 'geometric',
   QUADRATIC: 'quadratic',
-  EXPONENTIAL: 'exponential'
+  EXPONENTIAL: 'exponential',
 };
 
 export const LEARNING_TRACKS = {
-  PATTERN_RECOGNITION: 'PATTERN_RECOGNITION'
+  PATTERN_RECOGNITION: 'PATTERN_RECOGNITION',
 };
